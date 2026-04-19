@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-ESP32-blue.svg)](https://www.espressif.com/en/products/socs/esp32)
 [![Language](https://img.shields.io/badge/Language-Arduino-teal.svg)](https://www.arduino.cc/)
 ---
-> README Version 0.0.1 • Revised: December 15, 2025 • Ported By: rjjbatarao • [https://www.test.com](https://www.test.com)
+> README Version 0.0.5 • Revised: April 19, 2026 • Ported By: rjjbatarao • [https://www.test.com](https://www.test.com)
 The smallest possible AI personal assistant for ESP32.
 
 zclaw is written in C and runs on ESP32 boards with a strict all-in firmware budget target of <= 888 KiB on the default build. It supports scheduled tasks, GPIO control, persistent memory, and custom tool composition through natural language.
