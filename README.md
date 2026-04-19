@@ -135,17 +135,8 @@ Edit zclaw_config.h as required by the configuration:
 
 ## Local Admin Console
 
-When the board is in safe mode, unprovisioned, or the LLM path is unavailable, you can still operate it over USB serial without Wi-Fi or an LLM round trip.
+When the board is in safe mode, unprovisioned, or the LLM path is unavailable, you can still operate it over USB serial without Wi-Fi or an LLM round trip. Use Serial Baudrate of `115200`.
 
-```bash
-./scripts/monitor.sh /dev/cu.usbmodem1101
-# then type:
-/wifi status
-/wifi scan
-/bootcount
-/gpio all
-/reboot
-```
 
 Available local-only commands:
 
