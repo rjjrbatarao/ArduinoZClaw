@@ -125,14 +125,14 @@ Edit zclaw_config.h as required by the configuration:
 
 
 ## Url Options
-**Anthropic**
-```https://api.anthropic.com/v1/messages```
-**OpenAI**
-```https://api.openai.com/v1/models```
-**OpenRouter**
-```https://openrouter.ai/api/v1/models```
-**Ollama**
-```http://localhost:11434/v1/messages```
+**Anthropic:**
+```https://api.anthropic.com/v1/messages```<br/>
+**OpenAI:**
+```https://api.openai.com/v1/models```<br/>
+**OpenRouter:**
+```https://openrouter.ai/api/v1/models```<br/>
+**Ollama:**
+```http://localhost:11434/v1/messages```<br/>
 
 ## Local Admin Console
 
