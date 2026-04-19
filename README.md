@@ -7,7 +7,7 @@
 > README Version 0.0.5 • Revised: April 19, 2026 • Ported By: rjjbatarao • [https://www.test.com](https://www.test.com)
 The smallest possible AI personal assistant for ESP32.
 
-zclaw is written in C and runs on ESP32 boards with a strict all-in firmware budget target of <= 888 KiB on the default build. It supports scheduled tasks, GPIO control, persistent memory, and custom tool composition through natural language.
+ZClaw is written in C and runs on ESP32 boards with a strict all-in firmware budget target of <= 888 KiB on the default build. It supports scheduled tasks, GPIO control, persistent memory, and custom tool composition through natural language.
 
 The 888 KiB cap is all-in firmware size, not just app code. It includes zclaw logic plus ESP-IDF/FreeRTOS runtime, Wi-Fi/networking, TLS/crypto, and cert bundle overhead.
 
@@ -22,6 +22,7 @@ ArduinoZClaw is a, ESP-IDF port of zclaw for Arduino IDE, supports the following
 - Openrouter
 - Anthroic Claude
 - Ollama
+- Others
 
 
 ## Features
