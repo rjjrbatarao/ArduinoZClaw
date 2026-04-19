@@ -48,6 +48,7 @@ ArduinoZClaw is a, ESP-IDF port of zclaw for Arduino IDE, supports the following
 - Persistent memory across reboots
 - Persona options: `neutral`, `friendly`, `technical`, `witty`
 - Provider support for Anthropic, OpenAI, OpenRouter, and Ollama (custom endpoint)
+- Easy to flash when you already have arduino ide ;)
 
 ## Hardware
 
