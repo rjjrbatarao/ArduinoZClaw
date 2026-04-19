@@ -98,18 +98,18 @@ Edit zclaw_config.h as required by the configuration:
 ```openrouter```
 ```ollama```
 ## Model Options
-**Anthropic**
+**Anthropic:**
 ```claude-sonnet-4-6```
 ```claude-haiku-4-5```
 ```claude-opus-4-6```
 ```Custom```
-**OpenAI**
+**OpenAI:**
 ```gpt-5.4```
 ```gpt-5-mini```
 ```gpt-4.1-mini```
 ```Custom```
 
-**OpenRouter**
+**OpenRouter:**
 ```openrouter/auto```
 ```openai/gpt-5.2```
 ```openai/gpt-5-mini```
@@ -117,11 +117,11 @@ Edit zclaw_config.h as required by the configuration:
 ```anthropic/claude-haiku-4.5```
 ```Custom```
 
-**Ollama**
+**Ollama:**
 ```qwen3:8b```
 ```Custom```
 
-**Custom**
+**Others:**
 
 
 ## Url Options
