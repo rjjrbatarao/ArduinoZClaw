@@ -56,7 +56,9 @@ Test reports for other ESP32 variants are very welcome!
 
 ## Dependency
 
-The **ArduinoZClaw** requires Latest Arduino ESP ESP-IDF v5.5.x
+**Note 1:** The **ArduinoZClaw** requires Latest Arduino ESP ESP-IDF v5.5.x
+
+
 **Note 1:** Not tested on other Arduino ESP sdk versions, please let me know if it works on other sdk versions.
 
 ## Installation
