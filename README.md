@@ -92,10 +92,46 @@ Edit zclaw_config.h as required by the configuration:
 #endif // end ZCLAW_CONFIG__
 ```
 ## Backend Options
-
+```anthropic```
+```openai```
+```openrouter```
+```ollama```
 ## Model Options
+**Anthropic**
+```claude-sonnet-4-6```
+```claude-haiku-4-5```
+```claude-opus-4-6```
+```Custom```
+**OpenAI**
+```gpt-5.4```
+```gpt-5-mini```
+```gpt-4.1-mini```
+```Custom```
+
+**OpenRouter**
+```openrouter/auto```
+```openai/gpt-5.2```
+```openai/gpt-5-mini```
+```anthropic/claude-sonnet-4.6```
+```anthropic/claude-haiku-4.5```
+```Custom```
+
+**Ollama**
+```qwen3:8b```
+```Custom```
+
+**Custom**
+
 
 ## Url Options
+**Anthropic**
+```https://api.anthropic.com/v1/messages```
+**OpenAI**
+```https://api.openai.com/v1/models```
+**OpenRouter**
+```https://openrouter.ai/api/v1/models```
+**Ollama**
+```http://localhost:11434/v1/messages```
 
 ## Local Admin Console
 
