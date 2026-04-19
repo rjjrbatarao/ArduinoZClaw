@@ -48,10 +48,10 @@ Test reports for other ESP32 variants are very welcome!
 | Platform          | Identifier           | Example Models                  | Tool Calls Support 
 |-------------------|----------------------|---------------------------------|-------------------|
 | OpenAI            | `"openai"`           | gpt-4.1, gpt-4o-mini, etc.           | Yes               | 
-| Google Gemini     | `"gemini"`           | gemini-3-flash, gemini-3-pro, etc.                | Yes                | 
-| DeepSeek          | `"deepseek"`         | deepseek-chat, etc.                   | Yes               | 
+| OpenRouter     | `"openrouter"`           | openrouter/auto, openai/gpt-5.2, etc.                | Yes                | 
 | Anthropic Claude | `"claude"`| claude-sonnet-4, claude-opus-4, etc.               | Yes               | 
-| OpenAI Compatible | `"openai-compatible"`| HuggingFace, OpenRouter, etc.                       | Yes               | 
+| Ollama | `"ollama"`| qwen3:8b, etc.               | Yes               | 
+| Others | `"others"`| others etc.               | Yes               |
 
 ## Dependency
 
