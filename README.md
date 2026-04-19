@@ -19,10 +19,10 @@ Fun to use, fun to hack on.
 
 ArduinoZClaw is a, ESP-IDF port of zclaw for Arduino IDE, supports the following api backends:
 - OpenAI
-- Google Gemini
+- Openrouter
 - Anthroic Claude
-- DeepSeek
-- OpenAI-Compatible
+- Ollama
+
 
 ## Features
 
